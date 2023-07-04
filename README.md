@@ -16,7 +16,7 @@ Necessite l'installation du module carbon dans Powershell s'assurer d'avoir la d
   Listes des programme installer.
   ---------------------------------
 
-    Get-CInstalledProgram
+    Get-CProgramInstallInfo
 
 
   
